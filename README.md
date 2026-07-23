@@ -153,6 +153,3 @@ Tech stack
 Impact
 - Adds minimal server-side capabilities so the project demonstrates full-stack awareness.
 - Easy to explain: controllers read/write a single file, routes are RESTful, frontend calls a small api.ts.
-
-If you want
-- I can patch specific frontend files directly. Add those files to the working set or request edits with exact paths and I will modify them for you.
